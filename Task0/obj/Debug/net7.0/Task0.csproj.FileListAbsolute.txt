@@ -1,0 +1,15 @@
+/Users/akotishevskii/Library/CloudStorage/OneDrive-Personal/GeekBrains/3. Знакомство с языком программирования C#/Seminars/GBTASKS/GBTasks/Task0/bin/Debug/net7.0/Task0
+/Users/akotishevskii/Library/CloudStorage/OneDrive-Personal/GeekBrains/3. Знакомство с языком программирования C#/Seminars/GBTASKS/GBTasks/Task0/bin/Debug/net7.0/Task0.deps.json
+/Users/akotishevskii/Library/CloudStorage/OneDrive-Personal/GeekBrains/3. Знакомство с языком программирования C#/Seminars/GBTASKS/GBTasks/Task0/bin/Debug/net7.0/Task0.runtimeconfig.json
+/Users/akotishevskii/Library/CloudStorage/OneDrive-Personal/GeekBrains/3. Знакомство с языком программирования C#/Seminars/GBTASKS/GBTasks/Task0/bin/Debug/net7.0/Task0.dll
+/Users/akotishevskii/Library/CloudStorage/OneDrive-Personal/GeekBrains/3. Знакомство с языком программирования C#/Seminars/GBTASKS/GBTasks/Task0/bin/Debug/net7.0/Task0.pdb
+/Users/akotishevskii/Library/CloudStorage/OneDrive-Personal/GeekBrains/3. Знакомство с языком программирования C#/Seminars/GBTASKS/GBTasks/Task0/obj/Debug/net7.0/Task0.csproj.AssemblyReference.cache
+/Users/akotishevskii/Library/CloudStorage/OneDrive-Personal/GeekBrains/3. Знакомство с языком программирования C#/Seminars/GBTASKS/GBTasks/Task0/obj/Debug/net7.0/Task0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akotishevskii/Library/CloudStorage/OneDrive-Personal/GeekBrains/3. Знакомство с языком программирования C#/Seminars/GBTASKS/GBTasks/Task0/obj/Debug/net7.0/Task0.AssemblyInfoInputs.cache
+/Users/akotishevskii/Library/CloudStorage/OneDrive-Personal/GeekBrains/3. Знакомство с языком программирования C#/Seminars/GBTASKS/GBTasks/Task0/obj/Debug/net7.0/Task0.AssemblyInfo.cs
+/Users/akotishevskii/Library/CloudStorage/OneDrive-Personal/GeekBrains/3. Знакомство с языком программирования C#/Seminars/GBTASKS/GBTasks/Task0/obj/Debug/net7.0/Task0.csproj.CoreCompileInputs.cache
+/Users/akotishevskii/Library/CloudStorage/OneDrive-Personal/GeekBrains/3. Знакомство с языком программирования C#/Seminars/GBTASKS/GBTasks/Task0/obj/Debug/net7.0/Task0.dll
+/Users/akotishevskii/Library/CloudStorage/OneDrive-Personal/GeekBrains/3. Знакомство с языком программирования C#/Seminars/GBTASKS/GBTasks/Task0/obj/Debug/net7.0/refint/Task0.dll
+/Users/akotishevskii/Library/CloudStorage/OneDrive-Personal/GeekBrains/3. Знакомство с языком программирования C#/Seminars/GBTASKS/GBTasks/Task0/obj/Debug/net7.0/Task0.pdb
+/Users/akotishevskii/Library/CloudStorage/OneDrive-Personal/GeekBrains/3. Знакомство с языком программирования C#/Seminars/GBTASKS/GBTasks/Task0/obj/Debug/net7.0/Task0.genruntimeconfig.cache
+/Users/akotishevskii/Library/CloudStorage/OneDrive-Personal/GeekBrains/3. Знакомство с языком программирования C#/Seminars/GBTASKS/GBTasks/Task0/obj/Debug/net7.0/ref/Task0.dll
